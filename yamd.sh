@@ -1,1 +1,1 @@
-.venv/bin/python ./main.py
+./main.py
